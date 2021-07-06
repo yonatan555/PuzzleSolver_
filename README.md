@@ -13,7 +13,7 @@ which algorithm to use,the size of the puzzle, with/no time appearance ,with/no 
 
 
 
-and wrtting the solution of the whole path throught the final state into the file ,that inculde how much take longer
+and wrtting the solution of the whole path until the final state into the file ,that inculde how long it takes
 to find the answer ,the Cost and num of nodes that have created .
 
 ![image](https://user-images.githubusercontent.com/57701623/124582467-b335c300-de5a-11eb-9e95-60b9bbc6e097.png)
