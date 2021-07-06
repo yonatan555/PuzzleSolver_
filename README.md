@@ -2,7 +2,9 @@
 puzzle solver using search algorithms
 Like aStar , BFS ,DFBnB, DFID ,IDA.
 The user is enter an initial and final state (puzzle of any size) and addational details ,
+
 ![image](https://user-images.githubusercontent.com/57701623/124582087-5cc88480-de5a-11eb-959d-9714fbf79ca2.png)
+
 
 which algorithm to use,the size of the puzzle, with/no time appearance ,with/no printing the solution to the console,
 
