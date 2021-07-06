@@ -8,7 +8,7 @@ The user is enter an initial and final state (puzzle of any size) and addational
 
 which algorithm to use,the size of the puzzle, with/no time appearance ,with/no printing the solution to the console,
 
-![image](https://user-images.githubusercontent.com/57701623/124582186-75d13580-de5a-11eb-901c-521ea7db8a6d.png)           ![image](https://user-images.githubusercontent.com/57701623/124583267-8afa9400-de5b-11eb-94da-953b06287fb0.png)
+![image](https://user-images.githubusercontent.com/57701623/124583267-8afa9400-de5b-11eb-94da-953b06287fb0.png)      ![image](https://user-images.githubusercontent.com/57701623/124582186-75d13580-de5a-11eb-901c-521ea7db8a6d.png)           
 
 
 
